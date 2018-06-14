@@ -1,0 +1,7 @@
+C:\MyServer\NetApp\App2\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.exe.config
+C:\MyServer\NetApp\App2\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.exe
+C:\MyServer\NetApp\App2\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.pdb
+C:\MyServer\NetApp\App2\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.csprojAssemblyReference.cache
+C:\MyServer\NetApp\App2\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.csproj.CoreCompileInputs.cache
+C:\MyServer\NetApp\App2\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.exe
+C:\MyServer\NetApp\App2\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.pdb
