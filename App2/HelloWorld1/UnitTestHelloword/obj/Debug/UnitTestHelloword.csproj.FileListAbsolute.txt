@@ -1,0 +1,17 @@
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\obj\Debug\UnitTestHelloword.csprojAssemblyReference.cache
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\obj\Debug\UnitTestHelloword.csproj.CoreCompileInputs.cache
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\bin\Debug\UnitTestHelloword.dll
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\bin\Debug\UnitTestHelloword.pdb
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\bin\Debug\HelloWorld1.exe
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\bin\Debug\HelloWorld1.pdb
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\bin\Debug\HelloWorld1.exe.config
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\obj\Debug\UnitTestHelloword.csproj.CopyComplete
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\obj\Debug\UnitTestHelloword.dll
+C:\MyServer\NetApp\App2\HelloWorld1\UnitTestHelloword\obj\Debug\UnitTestHelloword.pdb

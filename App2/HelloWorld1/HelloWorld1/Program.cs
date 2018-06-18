@@ -6,12 +6,19 @@ using System.Threading.Tasks;
 
 namespace HelloWorld1
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine(CreatMesg());
+            Console.WriteLine("Hi");
+
             Console.ReadKey();
+        }
+
+        public static string CreatMesg()
+        {
+            return "Hello World!";
         }
     }
 }
